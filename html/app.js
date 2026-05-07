@@ -1,5 +1,4 @@
-// 1. Data Store with Local Paths
-// Make sure you have a folder named 'images' with these exact filenames
+
 const items = [
     { id: 1, name: "Burger", price: 10, img: "images/burger.png" },
     { id: 2, name: "Pizza", price: 15, img: "images/pizza.png" },
